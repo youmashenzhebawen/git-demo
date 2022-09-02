@@ -1,14 +1,1 @@
-hello git!master
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-ello git!
+hello git! master
